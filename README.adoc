@@ -1,0 +1,25 @@
+= ForestGang Yams =
+:hugo: https://github.com/Hugo-CASTELL[Hugo CASTELL]
+
+
+Développé par : +
+
+* Hugo CASTELL <hugo.castell@outlook.fr>
+* Pierre de BEAUMONT <>
+* Andrew PHAKEOVILAY <>
+* Gabin MUNOZ <>
+* Badr Eddine MIMOUNI <>
+
+== Description ==
+Ce projet de développement étudiant a pour but d'encourager les membres participants à prendre le pas pour créer l'interface d'un jeu de Yams, lui-même développé en amont par un étudiant. +
+L'objectif principal est simple, développer en collaboration pour découvrir les points forts et astuces de chacun pour s'entraîner. 
+
+== Contributions ==
+[cols="1,2"]
+|===
+| Partie développée | Auteur
+
+^| Moteur de jeu
+.>| {hugo}
+
+|===
